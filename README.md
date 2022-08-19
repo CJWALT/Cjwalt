@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an aspiring Frontend Developer
+I'm currently working on Shara-Rose art foundation website, alongside learning react.js
+
+He/him
+
+Repetition is the father of learning 
