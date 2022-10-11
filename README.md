@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an aspiring Frontend Developer
-I'm currently working on Shara-Rose art foundation website, alongside learning react.js
 
 He/him
 
