@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
+I'm currently working on a funiture ecommerce website with react js and react hooks.
+I'm currently learning more advanced react js, typescript and node js, also express js for api and other backend functionalities.
+Ask me about anything frontend dev.
+reach out to me on twitter @im_walt2
+
 He/him
 
 Repetition is the father of learning 
