@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- I'm currently learning more advanced react js, typescript and node js, also express js for api and other backend functionalities.
+- I'm currently learning nextjs.
 - Ask me about anything frontend dev.
 - Reach out to me on twitter @im_walt2
 
-He/him
+
 Repetition is the father of learning 
